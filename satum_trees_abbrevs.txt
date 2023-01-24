@@ -1,104 +1,104 @@
 Alder
  - 
 Crab Apple
-CAP
+ CAP
 Common Ash
-CAS
+ CAS
 Silver Birch
-SVB
+ SVB SRH
 Downy Birch
-DYB
+ DYB DBH
 European Beech
-EBH
+ EBH
 Box
-BOX
+ BOX
 Wild Cherry
-WCY
+ WCY
 Bird Cherry
-BDC
+ BDC BCY
 Blackthorn
-BKN
+ BKN
 Wych Elm
-WEM
+ WEM
 Smooth-leaved Elm
-SHL
+ SHL SHE
 Common Hawthorn
-CHN
+ CHN
 Midland Hawthorn
-MDH
+ MDH MHN
 Common Hazel
-CHZ
+ CHZ
 European Hornbeam
-EHM
+ EHM
 European Holly
-EHY
+ EHY
 Common Juniper
-CNJ
+ CNJ CJR
 Small-leaved Lime
-SDI
+ SDI
 Large-leaved Lime
-LLL
+ LLL
 Field Maple
-FDM
+ FDM
 Pedunculate Oak
-POK
+ POK
 Sessile Oak
-SOK
+ SOK
 Scots Pine
-SSP
+ SSP
 Aspen
-APN
+ APN
 Black Poplar
-BKP
+ BKP BPR
 European Rowan
-EWN
+ EWN
 Common Whitebeam
-CWM
+ CWM
 Service Tree
-SVT
+ SVT
 Wild Service Tree
-WST
+ WST
 Strawberry Tree
-SYT
+ SYT
 Bay Willow
-BYW
+ BYW BWW
 Crack Willow
-CKW
+ CKW CWW
 White Willow
-WWW
+ WWW
 Almond-leaved Willow
-ALW
+ ALW
 European Yew
-EYW
+ EYW
 Alder Buckthorn
-ARB
+ ARB ABN
 Purging Buckthorn
-PGB
+ PGB PBN
 Elder
-EDR
+ EDR
 Common Dogwood
-CND
+ CND CDD
 Rock Whitebeam
-RKW
+ RKW RWM
 Sea-buckthorn
-SBN
+ SBN
 Spindle
-SPD
+ SPD
 Sallow
-SLW
+ SLW
 Grey Willow
-GYW
+ GYW GWW
 Purple Willow
-PWW
+ PWW
 Common Osier
-CSR
+ CSR
 Eared Willow
-EDW
+ EDW EWW
 Guelder Rose
-GRR
+ GRR
 Wayfaring tree
-WGT
+ WGT
 Common Privet
-CPT
+ CPT
 Plot's Elm
-PSE
+ PSE PEM

@@ -41,12 +41,16 @@ def find_lowest_abri():
         else:
             lowest_val = tree_dict[tree][0][1]
             lowest_abri = tree_dict[tree][0][0]
+            lowest_abri_list = ''
             for i in range(len(tree_dict[tree])):
                 if lowest_val > tree_dict[tree][i][1]:
                     lowest_val = tree_dict[tree][i][1]
                     lowest_abri = tree_dict[tree][i][0]
+            for i in range(len(tree_dict[tree])):
+                if lowest_val == tree_dict[tree][i][1]:
+                    lowest_abri_list = lowest_abri_list + ' ' +tree_dict[tree][i][0]
             final_abr_list.append(tree)
-            final_abr_list.append(lowest_abri)
+            final_abr_list.append(lowest_abri_list)
     # write final abbreviations to the .txt file
     with open("satum_trees_abbrevs.txt", mode='w') as file:
         file.write('')

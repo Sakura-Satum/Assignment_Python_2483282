@@ -56,8 +56,8 @@ def assign_values():
 
     # for Testing
     # trees = get_content('test3')
+    # trees = get_content('test1')
     # trees = get_content('test2')
-    # trees = get_content('test3')
     trees = get_content('trees')
     value_of_letter = get_content('value')
     word_letter_value = {}
